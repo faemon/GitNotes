@@ -388,4 +388,4 @@ git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Crese
 ```
 #### 更多git命令见此图：
 
-![git_commonds](http://p8c5edov7.bkt.clouddn.com/image/git_commonds.png)
+![git_commands](https://github.com/faemon/GitNotes/raw/master/images/git_commands.png)
